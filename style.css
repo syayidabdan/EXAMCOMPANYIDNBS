@@ -301,13 +301,13 @@ nav ul li a:hover{
         top: 30%;
     }
     .center .title{
-        margin-right: 20rem;
+        margin-right: 30rem;
     }
     .center .next{
-        margin-right: 20rem;
+        margin-right: 30rem;
     }
     .center .button a button{
-        margin-right: 22rem;
+        margin-right: 30rem;
         font-size: 10px;
     }
     .container-profile .box{
@@ -324,6 +324,16 @@ nav ul li a:hover{
     }
 }
 @media (max-width:1025px){
+    .center .title{
+        margin-right: 10rem;
+    }
+    .center .next{
+        margin-right: 10rem;
+    }
+    .center .button a button{
+        margin-right: 10rem;
+        font-size: 10px;
+    }
     form{
         padding: 1.5rem;
     }
